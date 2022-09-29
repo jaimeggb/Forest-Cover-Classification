@@ -37,12 +37,12 @@ What I learned from the projects:
 5. Use the suggestions given to improve the model and get even better predictions (current metrics are: precision: recall: accuracy: )
 
 ## Technologies: 
-python: main language
-jupyter notebooks: main computing platform
-pandas and numpy: for exploratory data analysis (EDA)
-tensorflow: main machine learning library to create data pipeline and model
-scikit-learn: secondary machine learning library used to create performance metrics at the end
-seaborn and matplotlib: for plotting graphs
+- python: main language
+- jupyter notebooks: main computing platform
+- pandas and numpy: for exploratory data analysis (EDA)
+- tensorflow: main machine learning library to create data pipeline and model
+- scikit-learn: secondary machine learning library used to create performance metrics at the end
+- seaborn and matplotlib: for plotting graphs
 
 ## Collaborators: 
 None
