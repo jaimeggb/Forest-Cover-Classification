@@ -43,6 +43,8 @@ What I learned from the projects:
 - tensorflow: main machine learning library to create data pipeline and model
 - scikit-learn: secondary machine learning library used to create performance metrics at the end
 - seaborn and matplotlib: for plotting graphs
+- markdown: for this README.md file
+- git: for file version control
 
 ## Collaborators: 
 None
